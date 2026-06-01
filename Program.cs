@@ -31,7 +31,7 @@ class Program
                 break;
         }
 
-        if (vacancies >= 100)
+        if (vacancies >= 200)
         {
             Console.WriteLine("High Hiring Trend");
         }
