@@ -26,6 +26,10 @@ class Program
                 Console.WriteLine("Finance Industry Selected");
                 break;
 
+           case "Education":
+               Console.WriteLine("Education Industry Selected");
+                break;
+
             default:
                 Console.WriteLine("Unknown Industry");
                 break;
